@@ -12,7 +12,7 @@ By: jt
 [`code]`](ucsd.edu)
 ```
 
-1. It should produce [`google.com].
+1. It should produce `[```google.com]`.
 
 2. 
 
@@ -57,7 +57,7 @@ while](https://cse.ucsd.edu/
 And then there's more text
 ```
 
-1. It should produce [https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu, https://cse.ucsd.edu/].
+1. It should produce `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu, https://cse.ucsd.edu/]`.
 
 2. 
 
