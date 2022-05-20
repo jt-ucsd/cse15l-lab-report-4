@@ -1,5 +1,6 @@
 # Lab Report 4
 --
+
 By: jt
 
 ## Snippet 1
@@ -8,7 +9,7 @@ By: jt
 [`cod[e`](google.com)
 [`code]`](ucsd.edu)
 
-1. It should produce `[]` because, the snippet contains no links.
+1. It should produce [`google.com] because, the snippet contains no links.
 
 2. 
 
