@@ -14,7 +14,8 @@ By: jt
 
 1. It should produce [`google.com].
 
-2. 
+2. Test for Snippet One:
+![Snippet 1 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20One.JPG)
 
 3. 
 
@@ -30,7 +31,8 @@ By: jt
 
 1. It should produce `[a.com, a.com(()), example.com]`.
 
-2. 
+2. Test for Snippet Two:
+![Snippet 2 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20Two.JPG)
 
 3. 
 
@@ -59,7 +61,8 @@ And then there's more text
 
 1. It should produce `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu, https://cse.ucsd.edu/]`.
 
-2. 
+2. Test for Snippet Three:
+![Snippet 3 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20Three.JPG)
 
 3. 
 
