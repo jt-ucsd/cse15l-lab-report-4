@@ -20,7 +20,11 @@ By: jt
 
 3. My MarkdownParse:
 
+![Snippet 1 Test Personal](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%201%20Main%20Fail.jpg)
+
 4. Reviewed Markdown Parse: 
+
+![Snippet 1 Test Peer](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%201%20Peer%20Fail.jpg)
 
 ## Snippet 2
 
@@ -38,7 +42,12 @@ By: jt
 
 3. My MarkdownParse:
 
+![Snippet 2 Test Personal](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%202%20Main%20Fail.jpg)
+
 4. Reviewed Markdown Parse: 
+
+![Snippet 2 Test Peer](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%202%20Peer%20Fail.jpg)
+
 
 ## Snippet 3
 
@@ -69,4 +78,8 @@ And then there's more text
 
 3. My MarkdownParse:
 
-4. Reviewed Markdown Parse:  
+![Snippet 3 Test Personal](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%203%20Main%20Fail.jpg)
+
+4. Reviewed Markdown Parse: 
+
+![Snippet 3 Test Peer](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%203%20Peer%20Fail.jpg)
