@@ -12,7 +12,7 @@ By: jt
 [`code]`](ucsd.edu)
 ```
 
-1. It should produce `[```google.com]`.
+1. It should produce [`google.com].
 
 2. 
 
