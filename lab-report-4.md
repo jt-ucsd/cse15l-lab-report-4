@@ -18,9 +18,9 @@ By: jt
 
 ![Snippet 1 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20One.JPG)
 
-3. 
+3. My MarkdownParse:
 
-4. 
+4. Reviewed Markdown Parse: 
 
 ## Snippet 2
 
@@ -36,9 +36,9 @@ By: jt
 
 ![Snippet 2 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20Two.JPG)
 
-3. 
+3. My MarkdownParse:
 
-4. 
+4. Reviewed Markdown Parse: 
 
 ## Snippet 3
 
@@ -67,6 +67,6 @@ And then there's more text
 
 ![Snippet 3 Test](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Test%20for%20Snippet%20Three.JPG)
 
-3. 
+3. My MarkdownParse:
 
-4. 
+4. Reviewed Markdown Parse:  
