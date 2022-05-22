@@ -4,6 +4,7 @@
 By: jt
 
 Link to My MarkdownParser: [My Markdown Parser](https://github.com/jt-ucsd/markdown-parser)
+
 Link to Peer's MarkdownParser: [Peer's Markdown Parser](https://github.com/ujik500/markdown-parser)
 
 ## Snippet 1
