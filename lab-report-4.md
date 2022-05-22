@@ -100,3 +100,11 @@ And then there's more text
 4. Reviewed Markdown Parse: 
 
 ![Snippet 3 Test Peer](https://raw.githubusercontent.com/jt-ucsd/cse15l-lab-report-4/main/Snippet%203%20Peer%20Fail.jpg)
+
+## Question Responses:
+
+1. I will have to make a larger code change than 10 lines in order to come up with a logic that appropriately ignores ` when applicable.
+
+2. I will be able to make a change in fewer than 10 lines because, I would just need to count how many `[` brackets are there before the first `]` and skip the appropriate number.
+
+3. I will be have to make a change of more than 10 lines because, there will be situations where I want to ignore new line and situations where I don't.  If I just wrote a few lines combining all of the lines into a single long string, there will be test cases where it fails because, the previous line ends with a `!`.
