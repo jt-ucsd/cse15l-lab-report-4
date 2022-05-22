@@ -3,9 +3,12 @@
 
 By: jt
 
+Link to My MarkdownParser: [My Markdown Parser](https://github.com/jt-ucsd/markdown-parser)
+Link to Peer's MarkdownParser: [Peer's Markdown Parser](https://github.com/ujik500/markdown-parser)
+
 ## Snippet 1
 
-
+```
 `[a link`](url.com)
 
 [another link](`google.com)`
@@ -13,7 +16,7 @@ By: jt
 [`cod[e`](google.com)
 
 [`code]`](ucsd.edu)
-
+```
 
 1. It should produce [`google.com].
 
@@ -31,13 +34,13 @@ By: jt
 
 ## Snippet 2
 
-
+```
 [a [nested link](a.com)](b.com)
 
 [a nested parenthesized url](a.com(()))
 
 [some escaped \[ brackets \]](example.com)
-
+```
 
 1. It should produce `[a.com, a.com(()), example.com]`.
 
@@ -56,7 +59,7 @@ By: jt
 
 ## Snippet 3
 
-
+```
 [this title text is really long and takes up more than 
 one line
 
@@ -81,6 +84,7 @@ And there's still some more text after that.
 )
 
 And then there's more text
+```
 
 1. It should produce `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
