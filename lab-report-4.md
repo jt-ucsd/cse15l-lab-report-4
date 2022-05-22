@@ -82,7 +82,7 @@ And there's still some more text after that.
 
 And then there's more text
 
-1. It should produce `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedu, https://cse.ucsd.edu/]`.
+1. It should produce `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
 2. Test for Snippet Three:
 
